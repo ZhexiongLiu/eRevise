@@ -1,2 +1,1 @@
-# eRevise
-eRevise project home page
+# [eRevise project home page](https://sites.google.com/view/erevise)
